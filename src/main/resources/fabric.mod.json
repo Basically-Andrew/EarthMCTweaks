@@ -9,7 +9,8 @@
     "Basically_Andrew"
   ],
   "contact": {
-    "sources": "https://github.com/Basically-Andrew/EarthMCTweaks"
+    "homepage": "https://github.com/Basically-Andrew/EarthMCTweaks",
+    "issues": "https://github.com/Basically-Andrew/EarthMCTweaks/issues"
   },
 
   "license": "GNU GPLv3",
@@ -33,5 +34,8 @@
   },
   "suggests": {
     "another-mod": "*"
+  },
+  "custom": {
+    "modmenu:clientsideOnly": true
   }
 }
