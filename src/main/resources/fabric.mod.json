@@ -14,7 +14,7 @@
   },
 
   "license": "GNU GPLv3",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/emct/icon.png",
 
   "environment": "*",
   "entrypoints": {
