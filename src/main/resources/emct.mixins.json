@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "EarthMCTweaksMixin"
+    "MixinClientPlayNetworkHandler"
   ],
   "injectors": {
     "defaultRequire": 1

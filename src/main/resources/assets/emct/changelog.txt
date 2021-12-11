@@ -2,3 +2,5 @@ v0.0.1
 - Initial Commits from https://github.com/FabricMC/fabric-example-mod
 - Update Initial Commits
 - Create en_us.json
+v0.0.2
+- Create AFK Alert Sound
